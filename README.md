@@ -10,7 +10,7 @@
   O clone do site HBO Max serve como desafio para os alunos da plataforma testarem seus conhecimentos e colocarem em prática os recursos de HTML e CSS abordados nos cursos.
 </p>
 
-<a href="https://micheleambrosio.github.io/hbomax/">
+<a href="https://hbomax-portifolio.vercel.app/">
   <img src="assets/images/readme-images/cover-2.png">
 </a>
 
@@ -52,7 +52,7 @@ Recursos CSS presentes no projeto:
 
 <h2 id="challenges">🏆 Desafio</h2>
 
-Como parte do desafio final da Trilha de CSS, o desenvolvedor deve reproduzir [esse projeto](https://micheleambrosio.github.io/hbomax/), sem realizar uma consulta do código final do site, presente na branch `master` deste repositório.
+Como parte do desafio final da Trilha de CSS, o desenvolvedor deve reproduzir [esse projeto](https://hbomax-portifolio.vercel.app/), sem realizar uma consulta do código final do site, presente na branch `master` deste repositório.
 
 Para auxiliar na reprodução, utilize a branch `template-desafio`. Faça um fork do projeto em sua conta do GitHub.
 
@@ -113,7 +113,7 @@ Para implementar a barra de rolagem personalizada, como no exemplo, adicione na 
   }
 ```
 
-O resultado final do projeto deve contemplar todas as [features](#features) presentes no <a href="https://micheleambrosio.github.io/hbomax/">resultado final</a>.
+O resultado final do projeto deve contemplar todas as [features](#features) presentes no <a href="https://hbomax-portifolio.vercel.app/">resultado final</a>.
 
 As fontes utilizadas no projeto foram:
 
@@ -130,7 +130,7 @@ As fontes utilizadas no projeto foram:
 
 <h2 id="demo">🌈 Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](https://micheleambrosio.github.io/hbomax/).
+Você pode acessar ao resultado final do projeto [clicando aqui](https://hbomax-portifolio.vercel.app/).
 
 
 ---
